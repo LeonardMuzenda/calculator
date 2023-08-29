@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>996779259803-b48oisu6tfooh17lqf6pd7hchv0mkdj8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.996779259803-b48oisu6tfooh17lqf6pd7hchv0mkdj8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT-7K-bWMD0gBLUJ0pF6XKHprJgitlORY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>996779259803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>leosta</string>
+	<key>PROJECT_ID</key>
+	<string>baby-calculator</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baby-calculator.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:996779259803:ios:d714ca8ff9d89e270e133e</string>
+</dict>
+</plist>
